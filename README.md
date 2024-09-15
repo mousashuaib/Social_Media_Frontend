@@ -40,3 +40,9 @@
     <li><strong>Database:</strong> PostgreSQL</li>
     <li><strong>API Testing:</strong> Postman</li>
 </ul>
+
+![d](https://github.com/user-attachments/assets/cd91a545-5ebb-4d33-b294-ad7057e16e27)
+
+![fff](https://github.com/user-attachments/assets/1b6cf0cf-5104-4cca-bdf3-79afcca0b999)
+
+![Capture](https://github.com/user-attachments/assets/e10084b1-c742-43e0-9ab2-46bcf59fa7af)
