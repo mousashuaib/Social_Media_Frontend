@@ -39,6 +39,8 @@
     <li><strong>Backend:</strong> Spring Boot (Java)</li>
     <li><strong>Database:</strong> PostgreSQL</li>
     <li><strong>API Testing:</strong> Postman</li>
+    <li><strong>API Communication: </strong>Axios for making API requests</li>
+
 </ul>
 
 ![d](https://github.com/user-attachments/assets/cd91a545-5ebb-4d33-b294-ad7057e16e27)
